@@ -153,8 +153,8 @@ The notebook includes a **live prediction widget** — enter any match situation
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your_username](https://github.com/your_username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@your_username](https://github.com/vedantshirbhate66)
+
 
 ---
 
